@@ -1,4 +1,5 @@
-# Sales Analysis Pandas-Data-Analyst-Tasks
+# Sales Analysis 
+
 **Pandas-Data-Analyst-Tasks**
 Set of real world data Analyst tasks completed using the Python Pandas library.
 
